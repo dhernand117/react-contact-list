@@ -1,3 +1,21 @@
+## REACT CONTACT LIST
+
+# Node Packages used:
+-	Redux
+-	React-redux
+-	React-router
+-	Redux-devtool-extension
+-	React-avatar
+-	Shortid
+
+# -PURPOSE
+The main objective for this contact list will be a way to create a server-less CRUD application that stores Contacts using REACT-REDUX-ROUTER as the main libraries for the project.
+Also added a meme generator that will make API-fetch calls to generate random memes for fun!
+-TARGET AUDIENCE
+This application will be of use to anyone who wants to have a way to store in a memory only app to see how a CRUD application works locally and create sick memes while doing so :happy
+# -PROJECT LINK
+
+## -ADDITONAL INFORMATION
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
