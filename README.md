@@ -13,7 +13,8 @@ The main objective for this contact list will be a way to create a server-less C
 Also added a meme generator that will make API-fetch calls to generate random memes for fun!
 -TARGET AUDIENCE
 This application will be of use to anyone who wants to have a way to store in a memory only app to see how a CRUD application works locally and create sick memes while doing so :happy
-# -PROJECT LINK
+# -PROJECT LINK ON HEROKU
+https://finalmod2react-contact-list.herokuapp.com/
 
 ## -ADDITONAL INFORMATION
 # Getting Started with Create React App
